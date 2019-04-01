@@ -1,5 +1,5 @@
 # Introduce
-<h2><u>박민지 프로젝트 관리 Park-New-project</u></h2>
+<h2><u>박민지 프로젝트 관리 (Park-New-project)</u></h2>
 
 <b>1학년 1학기</b>
  - C언어 수강
