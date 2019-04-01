@@ -1,7 +1,7 @@
 # Introduce
 박민지 프로젝트 관리 Park-New-project
 
-1학년 1학기
+<b>1학년 1학기</b>
  - C언어 수강
  - 여름방학 : C# WinForm 333매칭퍼즐 GUI 프로그램
  
