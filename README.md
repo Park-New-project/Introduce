@@ -2,14 +2,14 @@
 <h2><u>박민지 프로젝트 관리 (Park-New-project)</u></h2>
 
 <h3>1학년 1학기</h3>
- - C언어 수강
- - 여름방학 : C# WinForm 333매칭 퍼즐 GUI 프로그램 (애니팡, 다이아몬드 대시 )
+ - C언어 수강 완료
+ - 여름방학 : C# WinForm 멘토링 333매칭 퍼즐 GUI 프로그램 (ex 애니팡)
 
 <h3>1학년 2학기</h3>
- <b> - C++ 최종 프로젝트 : 콘솔 UI 영화 예매 프로그램 (Movie_Ticketing)</b><br>
+ - C++ 프로젝트 :  <b> 콘솔 UI 영화 예매 프로그램 (Movie_Ticketing)</b><br>
   https://github.com/Park-New-project/Movie_Ticketing<br><br>
   
- - 레고 마인드스톰 : 선따라 길찾는 로봇
+ - 레고 마인드 스톰 : 선따라 길찾는 로봇
  - 겨울방학 : html, css, Javascript, python web 사진 / 게시물 관리 웹서비스
 
 <h3>2학년 1학기</h3>
