@@ -6,8 +6,7 @@
  - 여름방학 : C# WinForm 333매칭 퍼즐 GUI 프로그램 (애니팡, 다이아몬드 대시 )
 
 <h3>1학년 2학기</h3>
- <b><a href=" https://github.com/Park-New-project/Movie_Ticketing">
- - C++ 최종 프로젝트 : C++ 콘솔 UI 영화 예매 프로그램 (Movie_Ticketing)</a></b>
+ <b><a href=" https://github.com/Park-New-project/Movie_Ticketing"> - C++ 최종 프로젝트 : 콘솔 UI 영화 예매 프로그램 (Movie_Ticketing)</a></b><br>
   https://github.com/Park-New-project/Movie_Ticketing
  - 레고 마인드스톰 : 선따라 길찾는 로봇
  - 겨울방학 : html, css, Javascript, python web 사진 / 게시물 관리 웹서비스
