@@ -6,6 +6,7 @@
  - 여름방학 : C# WinForm 멘토링 333매칭 퍼즐 GUI 프로그램 (ex 애니팡)<br>
 </p><p>
 <h3>1학년 2학기</h3>
+<img src="images/Movie_Ticketing.gif" width="60%" height="60%">
  - C++ 프로젝트 :  <b> 콘솔 UI 영화 예매 프로그램 (Movie_Ticketing)</b><br>
   https://github.com/Park-New-project/Movie_Ticketing<br><br>
   
@@ -22,6 +23,8 @@
  - 겨울방학 : Python Django 인공지능 사진분류 웹서비스<br>
 </p><p>
 <h3>3학년 1학기</h3>
+<img src="images/Tower_of_Hanoi_BFS.gif" width="60%" height="60%">
  - 프로그래밍 언어론 (알고리즘2) : C, C++, C#, Unity 하노이 탑 (Tower of Hanoi(BFS))<br>
+ https://github.com/Park-New-project/Tower_of_Hanoi_BFS <br><br>
  - Now Updating!<br>
 </p>
