@@ -20,6 +20,7 @@
 </p><p>
 <h3>2학년 2학기</h3>
  - 알고리즘 : C, C++ 이용<br>
+ <img src="Images/Classify_Your_Photo.gif" width="60%" height="60%">
  - 겨울방학 : Python Django 인공지능 사진분류 웹서비스<br>
 </p><p>
 <h3>3학년 1학기</h3>
