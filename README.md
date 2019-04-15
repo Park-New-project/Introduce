@@ -16,6 +16,7 @@
 <h3>2학년 1학기</h3>
  - 자바 프로젝트 : (Java 일정관리 스레드 동기화 메모 캘린더)<br>
  - 자료 구조 : C언어<br>
+ <img src="Images/HatNim.gif" width="60%" height="60%">
  - 여름 방학 :  Java Android Firebase 이용 식단/건강/습관 관리 앱 '햇님안햇님'<br>
 </p><p>
 <h3>2학년 2학기</h3>
