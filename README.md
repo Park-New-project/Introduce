@@ -3,6 +3,7 @@
 <p>
 <h3>1학년 1학기</h3>
  - C언어 수강 완료<br>
+ <img src="Images/Puzzle_Pop.PNG" width="60%" height="60%">
  - 여름방학 : C# WinForm 멘토링 333매칭 퍼즐 GUI 프로그램 (ex 애니팡)<br>
 </p><p>
 <h3>1학년 2학기</h3>
