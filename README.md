@@ -25,6 +25,7 @@
  <li>자바 프로젝트 : <b>Java 일정관리 스레드 동기화 메모 캘린더</b></li><br>
  <li>자료 구조 (C언어) 수강 </li><br>
  <li>여름 방학 :  <b>Android (Java) & Firebase 이용 식단/건강/습관 관리 앱 '햇님안햇님'</b></li><br>
+   -> https://github.com/Park-New-project/HatNim
   <img src="Images/HatNim.gif" width="25%" height="25%">
 </p>
 <br><br>
